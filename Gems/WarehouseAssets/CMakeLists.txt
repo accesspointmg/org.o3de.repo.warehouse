@@ -3,7 +3,7 @@
 #
 # SPDX-License-Identifier: Apache-2.0 OR MIT
 
-o3de_gem_setup("WarehouseAssets")
+o3de_gem_setup()
 
 # This indicates to the Builders applications(AssetProcessor, AssetBuilder, AssetBundler)
 # that the gem should be added to the "cmake_dependencies.<project>.assetbuilder.setreg"
