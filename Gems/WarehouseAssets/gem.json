@@ -27,6 +27,5 @@
     ],
     "engine_api_dependencies": [],
     "repo_uri": "https://raw.githubusercontent.com/o3de/o3de-extras/development",
-    "restricted": "",
     "download_source_uri": "https://github.com/o3de/o3de-extras/releases/download/2.0/warehouseassets-2.0.4-gem.zip"
 }

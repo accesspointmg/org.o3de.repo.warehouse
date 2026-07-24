@@ -27,6 +27,5 @@
         "ROS2>=3.1.0"
     ],
     "repo_uri": "https://raw.githubusercontent.com/o3de/o3de-extras/development",
-    "restricted": "WarehouseAutomation",
     "download_source_uri": "https://github.com/o3de/o3de-extras/releases/download/2.0/warehouseautomation-2.0.1-gem.zip"
 }
