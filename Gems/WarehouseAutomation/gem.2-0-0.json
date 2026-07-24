@@ -1,0 +1,69 @@
+{
+  "$schemaVersion": "2.0.0",
+  "$schema": "https://canonical.o3de.org/o3de-gem-2.0.0.json",
+  "gem": {
+    "name": "org.o3de.gem.warehouseautomation",
+    "version": "2.0.1",
+    "display_name": "Warehouse Automation",
+    "description": "Gem for simulating an automated warehouse or factory",
+    "type": "code",
+    "id": "",
+    "copyright_text": ""
+  },
+  "origin": {
+    "name": "RobotecAI",
+    "url": "https://robotec.ai"
+  },
+  "licenses": [
+    {
+      "license_identifier": "Apache-2.0",
+      "url": "https://opensource.org/licenses/Apache-2.0",
+      "display_name": "Apache 2.0",
+      "relative_path": ""
+    }
+  ],
+  "canonical_tags": [
+    "Gem"
+  ],
+  "user_tags": [
+    "WarehouseAutomation"
+  ],
+  "icon": {
+    "relative_path": "preview.png",
+    "url": ""
+  },
+  "documentation": {
+    "relative_path": "",
+    "url": ""
+  },
+  "children": {
+    "engines": [],
+    "projects": [],
+    "gems": [],
+    "templates": [],
+    "repos": [],
+    "overlays": []
+  },
+  "remote": {
+    "engines": [],
+    "projects": [],
+    "gems": [],
+    "templates": [],
+    "repos": [],
+    "overlays": []
+  },
+  "dependent": {
+    "gems": [
+      "ROS2>=3.1.0"
+    ]
+  },
+  "downloads": [
+    {
+      "source": "https://github.com/o3de/o3de-extras/releases/download/2.0/warehouseautomation-2.0.1-gem.zip"
+    }
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "requirements": "This gem requires ROS 2 gem and PhysX5 gem."
+}
