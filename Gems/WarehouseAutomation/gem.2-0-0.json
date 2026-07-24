@@ -6,9 +6,7 @@
     "version": "2.0.1",
     "display_name": "Warehouse Automation",
     "description": "Gem for simulating an automated warehouse or factory",
-    "type": "code",
-    "id": "",
-    "copyright_text": ""
+    "type": "code"
   },
   "origin": {
     "name": "RobotecAI",
@@ -17,9 +15,8 @@
   "licenses": [
     {
       "license_identifier": "Apache-2.0",
-      "url": "https://opensource.org/licenses/Apache-2.0",
-      "display_name": "Apache 2.0",
-      "relative_path": ""
+      "display_name": "Apache License 2.0",
+      "relative_path": "LICENSE_APACHE2.TXT"
     }
   ],
   "canonical_tags": [
@@ -29,12 +26,10 @@
     "WarehouseAutomation"
   ],
   "icon": {
-    "relative_path": "preview.png",
-    "url": ""
+    "relative_path": "preview.png"
   },
   "documentation": {
-    "relative_path": "",
-    "url": ""
+    "relative_path": "README.md"
   },
   "children": {
     "engines": [],
@@ -54,7 +49,7 @@
   },
   "dependent": {
     "gems": [
-      "ROS2>=3.1.0"
+      "org.o3de.gem.ros2>=3.1.0"
     ]
   },
   "downloads": [

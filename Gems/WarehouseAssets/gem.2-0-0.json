@@ -6,9 +6,7 @@
     "version": "2.0.4",
     "display_name": "WarehouseAssets",
     "description": "A set of prefabs and assets to build large warehouse scenes.",
-    "type": "asset",
-    "id": "",
-    "copyright_text": ""
+    "type": "asset"
   },
   "origin": {
     "name": "RobotecAI",
@@ -16,10 +14,14 @@
   },
   "licenses": [
     {
-      "license_identifier": "Apache-2.0 or MIT",
-      "url": "https://opensource.org/licenses/Apache-2.0",
-      "display_name": "Apache 2.0 or MIT",
-      "relative_path": ""
+      "license_identifier": "Apache-2.0",
+      "display_name": "Apache License 2.0",
+      "relative_path": "LICENSE_APACHE2.TXT"
+    },
+    {
+      "license_identifier": "MIT",
+      "display_name": "MIT License",
+      "relative_path": "LICENSE_MIT.TXT"
     }
   ],
   "canonical_tags": [
@@ -29,12 +31,10 @@
     "WarehouseAssets"
   ],
   "icon": {
-    "relative_path": "preview.png",
-    "url": ""
+    "relative_path": "preview.png"
   },
   "documentation": {
-    "relative_path": "",
-    "url": ""
+    "relative_path": "README.md"
   },
   "children": {
     "engines": [],
@@ -59,9 +59,5 @@
     {
       "source": "https://github.com/o3de/o3de-extras/releases/download/2.0/warehouseassets-2.0.4-gem.zip"
     }
-  ],
-  "platforms": [
-    ""
-  ],
-  "requirements": ""
+  ]
 }
