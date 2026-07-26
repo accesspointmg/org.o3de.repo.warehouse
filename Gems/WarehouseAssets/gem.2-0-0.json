@@ -59,5 +59,16 @@
     {
       "source": "https://github.com/o3de/o3de-extras/releases/download/2.0/warehouseassets-2.0.4-gem.zip"
     }
+  ],
+  "releases": [
+    {
+      "name": "2607.0",
+      "source_controls": [
+        {
+          "git": "https://github.com/accesspointmg/org.o3de.repo.warehouse.git",
+          "tag": "2607.0"
+        }
+      ]
+    }
   ]
 }

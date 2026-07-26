@@ -60,5 +60,16 @@
   "platforms": [
     "Linux"
   ],
-  "requirements": "This gem requires ROS 2 gem and PhysX5 gem."
+  "requirements": "This gem requires ROS 2 gem and PhysX5 gem.",
+  "releases": [
+    {
+      "name": "2607.0",
+      "source_controls": [
+        {
+          "git": "https://github.com/accesspointmg/org.o3de.repo.warehouse.git",
+          "tag": "2607.0"
+        }
+      ]
+    }
+  ]
 }

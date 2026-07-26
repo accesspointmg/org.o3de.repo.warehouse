@@ -1,31 +1,42 @@
 {
-    "gem_name": "WarehouseAssets",
-    "version": "2.0.4",
-    "display_name": "WarehouseAssets",
-    "license": "Apache-2.0 or MIT",
-    "license_url": "https://opensource.org/licenses/Apache-2.0",
-    "origin": "RobotecAI",
-    "origin_url": "https://robotec.ai",
-    "type": "Asset",
-    "summary": "A set of prefabs and assets to build large warehouse scenes.",
-    "canonical_tags": [
-        "Gem"
-    ],
-    "user_tags": [
-        "WarehouseAssets"
-    ],
-    "platforms": [
-        ""
-    ],
-    "icon_path": "preview.png",
-    "requirements": "",
-    "documentation_url": "",
-    "dependencies": [],
-    "compatible_engines": [
-        "o3de-sdk>=2.5.0",
-        "o3de>=2.5.0"
-    ],
-    "engine_api_dependencies": [],
-    "repo_uri": "https://raw.githubusercontent.com/o3de/o3de-extras/development",
-    "download_source_uri": "https://github.com/o3de/o3de-extras/releases/download/2.0/warehouseassets-2.0.4-gem.zip"
+  "gem_name": "WarehouseAssets",
+  "version": "2.0.4",
+  "display_name": "WarehouseAssets",
+  "license": "Apache-2.0 or MIT",
+  "license_url": "https://opensource.org/licenses/Apache-2.0",
+  "origin": "RobotecAI",
+  "origin_url": "https://robotec.ai",
+  "type": "Asset",
+  "summary": "A set of prefabs and assets to build large warehouse scenes.",
+  "canonical_tags": [
+    "Gem"
+  ],
+  "user_tags": [
+    "WarehouseAssets"
+  ],
+  "platforms": [
+    ""
+  ],
+  "icon_path": "preview.png",
+  "requirements": "",
+  "documentation_url": "",
+  "dependencies": [],
+  "compatible_engines": [
+    "o3de-sdk>=2.5.0",
+    "o3de>=2.5.0"
+  ],
+  "engine_api_dependencies": [],
+  "repo_uri": "https://raw.githubusercontent.com/o3de/o3de-extras/development",
+  "download_source_uri": "https://github.com/o3de/o3de-extras/releases/download/2.0/warehouseassets-2.0.4-gem.zip",
+  "releases": [
+    {
+      "name": "2607.0",
+      "source_controls": [
+        {
+          "git": "https://github.com/accesspointmg/org.o3de.repo.warehouse.git",
+          "tag": "2607.0"
+        }
+      ]
+    }
+  ]
 }
