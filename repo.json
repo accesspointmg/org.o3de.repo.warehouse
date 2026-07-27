@@ -4,34 +4,12 @@
     "repo": {
         "name": "org.o3de.repo.warehouse",
         "display_name": "Warehouse Family Repo",
-        "description": "Family repository for WarehouseAssets and WarehouseAutomation gems, hoisted from o3de-extras.",
-        "type": "repo"
+        "description": "Family repository for WarehouseAssets and WarehouseAutomation gems, hoisted from o3de-extras."
     },
     "origin": {
         "name": "The Linux Foundation",
         "url": "https://www.linuxfoundation.org"
     },
-    "licenses": [
-        {
-            "license_identifier": "Apache-2.0",
-            "display_name": "Apache License 2.0",
-            "relative_path": "LICENSE_APACHE2.TXT",
-            "scopes": [
-                "All source code"
-            ]
-        },
-        {
-            "license_identifier": "MIT",
-            "display_name": "MIT License",
-            "relative_path": "LICENSE_MIT.TXT",
-            "scopes": [
-                "All source code"
-            ]
-        }
-    ],
-    "canonical_tags": [
-        "Repo"
-    ],
     "children": {
         "engines": [],
         "projects": [],
