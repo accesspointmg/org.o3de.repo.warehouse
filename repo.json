@@ -31,6 +31,6 @@
     },
     "source_control": {
         "git": "https://github.com/accesspointmg/org.o3de.repo.warehouse.git",
-        "branch": "2.0.0"
+        "branch": "main"
     }
 }
